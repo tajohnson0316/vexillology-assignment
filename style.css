@@ -1,0 +1,37 @@
+.container {
+    border: 2px solid black;
+    margin: auto;
+    width: 600px;
+    aspect-ratio: 18/11;
+    background-color: #0066b3;
+}
+
+.big-canton-1 {
+    float: right;
+    height: 133px;
+    width: 333px;
+    background-color: white;
+}
+
+.small-canton-1 {
+    float: left;
+    height: 133px;
+    width: 167px;
+    background-color: white;
+}
+
+.big-canton-2 {
+    margin-top: 101px;
+    float: right;
+    height: 133px;
+    width: 333px;
+    background-color: white;
+}
+
+.small-canton-2 {
+    margin-top: 101px;
+    float: left;
+    height: 133px;
+    width: 167px;
+    background-color: white;
+}
